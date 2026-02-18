@@ -16,4 +16,8 @@ Repositório para a atividade de git e github
 5. Verifique se o arquivo criado foi enviado para uma nova branch. ATENÇÂO: não de push diretamente na main
 
 ### Resolução:
+1. criando o repositório
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2773a108-4763-4524-8d36-a451916854b8" />
+
+2. 
